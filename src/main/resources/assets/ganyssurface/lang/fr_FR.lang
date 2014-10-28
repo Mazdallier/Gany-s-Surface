@@ -57,21 +57,21 @@ item.ganyssurface.door_jungle.name=Porte en Acajou
 item.ganyssurface.door_spruce.name=Porte en Pin
 item.ganyssurface.quiver.name=Carquois
 
-item.ganyssurface.colouredRedstoneBLACK.name=Blackstone
-item.ganyssurface.colouredRedstoneGREEN.name=Greenstone
-item.ganyssurface.colouredRedstoneBROWN.name=Brownstone
-item.ganyssurface.colouredRedstoneBLUE.name=Bluestone
-item.ganyssurface.colouredRedstonePURPLE.name=Purplestone
-item.ganyssurface.colouredRedstoneCYAN.name=Cyanstone
-item.ganyssurface.colouredRedstoneLIGHTGREY.name=Lightgreystone
-item.ganyssurface.colouredRedstoneGREY.name=Greystone
-item.ganyssurface.colouredRedstonePINK.name=Pinkstone
-item.ganyssurface.colouredRedstoneLIME.name=Limestone
-item.ganyssurface.colouredRedstoneYELLOW.name=Yellowstone
-item.ganyssurface.colouredRedstoneLIGHTBLUE.name=Lightbluestone
-item.ganyssurface.colouredRedstoneMAGENTA.name=Magentastone
-item.ganyssurface.colouredRedstoneORANGE.name=Orangestone
-item.ganyssurface.colouredRedstoneWHITE.name=Whitestone
+item.ganyssurface.colouredRedstoneBLACK.name=Noirepierre
+item.ganyssurface.colouredRedstoneGREEN.name=Vertpierre
+item.ganyssurface.colouredRedstoneBROWN.name=Marronpierre
+item.ganyssurface.colouredRedstoneBLUE.name=Bleupierre
+item.ganyssurface.colouredRedstonePURPLE.name=Violetpierre
+item.ganyssurface.colouredRedstoneCYAN.name=Cyanpierre
+item.ganyssurface.colouredRedstoneLIGHTGREY.name=Grisclairepierre
+item.ganyssurface.colouredRedstoneGREY.name=Grispierre
+item.ganyssurface.colouredRedstonePINK.name=Rosepierre
+item.ganyssurface.colouredRedstoneLIME.name=Citronpierre
+item.ganyssurface.colouredRedstoneYELLOW.name=jaunepierre
+item.ganyssurface.colouredRedstoneLIGHTBLUE.name=Bleuclairepierre
+item.ganyssurface.colouredRedstoneMAGENTA.name=Magentapierre
+item.ganyssurface.colouredRedstoneORANGE.name=Orangepierre
+item.ganyssurface.colouredRedstoneWHITE.name=Blanchepierre
 
 # Block localizations
 tile.ganyssurface.camelliaCrop.name=Pousse de Camélia
